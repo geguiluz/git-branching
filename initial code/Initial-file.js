@@ -1,2 +1,2 @@
 // This is the original text on file
-//Line added from feature 2
+//Line added from feature B
