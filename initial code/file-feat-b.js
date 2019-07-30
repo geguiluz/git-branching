@@ -1,3 +1,3 @@
-//Some bugs fixed in the master branch
-//Some code from feature b
+//Refined bug fix
+//Some code from feature B
 //More bugs fixed in the master branch
